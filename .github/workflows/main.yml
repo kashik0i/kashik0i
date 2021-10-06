@@ -1,3 +1,5 @@
+name: DevCard
+
 on:
   workflow_dispatch:
   push:
