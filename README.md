@@ -12,17 +12,17 @@ href="https://app.daily.dev/kashikoi">
 </a>
 <p align="left"> <a href="https://twitter.com/_kashik0i" target="blank"><img src="https://img.shields.io/twitter/follow/_kashik0i?logo=twitter&style=for-the-badge" alt="_kashik0i" /></a> </p>
 
-- 🔭 I’m currently working on [turbo-goldfish](https://github.com/kashik0i/turbo-goldfish)
+- 🔭 I’m currently working on [CodeColab](https://github.com/kashik0i/codecolab-frontend)
 
 - 🌱 I’m currently learning **Rust, NextJS, React-Three-fiber**
 
-- 🤝 I’m looking for help with [💀 skull-empires](https://github.com/kashik0i/skull-empires)
+- 🤝 I’m looking for help with [💀 skull-empires](https://github.com/kashik0i/skull-empires) and [CodeColab](https://github.com/kashik0i/codecolab-frontend)
 
 - 👨‍💻 All of my projects are available at [badawy.dev/projects](badawy.dev/projects)
 
 - 📝 I sometimes write articles on [blog.badawy.dev](blog.badawy.dev)
 
-- 💬 Ask me about **React, TypeScript, codegolf**
+- 💬 Ask me about **NestJs, TypeScript, Svelte**
 
 - 📫 How to reach me [amr.badawy13@gmail.com](mailto:amr.badawy13@gmail.com)
 
