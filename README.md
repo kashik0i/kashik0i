@@ -18,15 +18,15 @@ href="https://app.daily.dev/kashikoi">
 
 - 🤝 I’m looking for help with [💀 skull-empires](https://github.com/kashik0i/skull-empires) and [CodeColab](https://github.com/kashik0i/codecolab-frontend)
 
-- 👨‍💻 All of my projects are available at [badawy.dev/projects](badawy.dev/projects)
+- 👨‍💻 All of my projects are available at [badawy.dev/projects](https://badawy.dev/projects)
 
-- 📝 I sometimes write articles on [blog.badawy.dev](blog.badawy.dev)
+- 📝 I sometimes write articles on [blog.badawy.dev](https://blog.badawy.dev)
 
 - 💬 Ask me about **NestJs, TypeScript, Svelte**
 
 - 📫 How to reach me [amr.badawy13@gmail.com](mailto:amr.badawy13@gmail.com)
 
-- 📄 Know about my experiences [cv.badawy.dev](cv.badawy.dev)
+- 📄 Know about my experiences [cv.badawy.dev](https://cv.badawy.dev)
 
 - ⚡ Fun fact **I did powerlifting in high school**
 
