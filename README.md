@@ -2,14 +2,6 @@
 <h3 align="center">A passionate Full Stack developer from Egypt</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kashik0i&label=Profile%20views&color=0e75b6&style=flat-square" alt="kashik0i" /> </p>
-<a
-href="https://app.daily.dev/kashikoi">
-<img
-    src="https://raw.githubusercontent.com/kashik0i/kashik0i/devcard/devcard.svg"
-    width="250"
-    align="right"
-    alt="Amr Badawy's Dev Card"/>
-</a>
 <p align="left"> <a href="https://twitter.com/_kashik0i" target="blank"><img src="https://img.shields.io/twitter/follow/_kashik0i?logo=twitter&style=for-the-badge" alt="_kashik0i" /></a> </p>
 
 - 🔭 I’m currently working on [CodeColab](https://github.com/kashik0i/codecolab-frontend)
